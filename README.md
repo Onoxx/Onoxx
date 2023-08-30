@@ -9,15 +9,11 @@
 - <b>PHP</b>
   - [Crud (ajout/affichage/édition/suppression) de recette et de commentaire (utilisation de Laravel)](https://github.com/Onoxx/Miam)
 
-<h2> 🤳 Mes réseaux :</h2>
+<h2> 🤳 Me contacter :</h2>
 
-[<img align="left" alt="Onoxx | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Onoxx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Onoxx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Onoxx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Onoxx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] Léo Clarinval
+<br>
+<p>Mail : leo.clarinval@icloud.com</p>
+<p>Téléphone : +32 473/39.83.27</p>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://www.linkedin.com/in/léo-clarinval/
